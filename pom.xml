@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>csd230</groupId>
-    <artifactId>11</artifactId>
+    <artifactId>csd230-s26-lecture-2-12</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>csd230-s26-lecture-2.11-in-class-exercise</name>
     <description>csd230-s26-lecture-2.11-in-class-exercise</description>
